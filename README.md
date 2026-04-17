@@ -44,9 +44,10 @@ This project analyzes a large-scale global sales dataset (10,000+ records) to un
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard.png)
-
----
+<img width="836" height="285" alt="image" src="https://github.com/user-attachments/assets/b10f734b-74f7-4eb3-902a-0913f5b1c838" />
+<img width="789" height="480" alt="image" src="https://github.com/user-attachments/assets/5bec0174-d059-49e5-ae95-117f76d64465" />
+<img width="763" height="561" alt="image" src="https://github.com/user-attachments/assets/6f5a2e20-c759-4282-8676-4f4619a1adfb" />
+<img width="1090" height="598" alt="image" src="https://github.com/user-attachments/assets/b37b57dd-dcb7-4499-8068-566074d1c0ec" />
 
 ## 💡 Key Business Insights
 
